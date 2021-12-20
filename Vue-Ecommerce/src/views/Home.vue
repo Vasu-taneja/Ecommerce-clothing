@@ -3,7 +3,7 @@
     <div class="jumbotron jumbotron-fluid">
       <div class="container">
         <img alt="MEN FORM logo" src="../assets/logo.png" width="200px" />
-        <p class="lead">An ecommerce store for all your clothing needs</p>
+        <p class="lead">An ecommerce store for all your digital needs</p>
         <h3 class="display-5 ">
           <span>Upto 50% off</span>
         </h3>
